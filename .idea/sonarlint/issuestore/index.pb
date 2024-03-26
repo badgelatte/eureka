@@ -229,3 +229,15 @@ u
 Euser-service2/src/main/java/org/example/userservice2/domain/User.java,5/b/5b6f0034602ec722bc16448c8026ac4b2cfae425
 ‰
 Yuser-service2/src/main/java/org/example/userservice2/exception/UserNotFoundException.java,c/3/c3637f086668a37cea5be7c2da1609772a2e313c
+<
+auth/HELP.md,e/5/e5104cf8d4390cd935115fd3dd0088bb224961a3
+<
+auth/pom.xml,c/f/cf3c56ff971c67216817e39a7bd2756a0dd65833
+m
+=auth/src/test/java/org/example/auth/AuthApplicationTests.java,6/1/61293aa16688d7e66a039b7ef8da27a642617810
+h
+8auth/src/main/java/org/example/auth/AuthApplication.java,1/3/13e90f2f79668b77484973717e6bfea3f3077afd
+q
+Aauth/src/main/java/org/example/auth/client/UserServiceClient.java,f/3/f39ed931a2c9f7a9e8100cf12f91e9a0615f9baa
+u
+Eauth/src/test/java/org/example/auth/client/UserServiceClientTest.java,f/8/f8013cbb5d00ed452705a406ca5737feaf46529b

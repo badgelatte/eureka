@@ -13,7 +13,6 @@ import java.time.LocalDateTime;
 @Getter
 public class User {
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private String id;
     private String pw;
     private String name;
