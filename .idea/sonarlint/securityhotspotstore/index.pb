@@ -223,3 +223,9 @@ Muser-service2/src/main/java/org/example/userservice2/service/UserService.java,
 Vuser-service2/src/main/java/org/example/userservice2/service/impl/UserServiceImpl.java,b/3/b3c9287ba429bf7df0ec22f3e317b79cc35a0ea4
 Å
 Quser-service2/src/test/java/org/example/userservice2/service/UserServiceTest.java,d/a/da8a17d5d740e2efb8f99c008da770c9f2a4755e
+É
+Suser-service2/src/main/java/org/example/userservice2/repository/UserRepository.java,6/3/63a9a1cea4f891649c0211f5070aaa5efc7f84b8
+u
+Euser-service2/src/main/java/org/example/userservice2/domain/User.java,5/b/5b6f0034602ec722bc16448c8026ac4b2cfae425
+â
+Yuser-service2/src/main/java/org/example/userservice2/exception/UserNotFoundException.java,c/3/c3637f086668a37cea5be7c2da1609772a2e313c
